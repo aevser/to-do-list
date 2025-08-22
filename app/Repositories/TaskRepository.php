@@ -3,7 +3,7 @@
 namespace App\Repositories;
 
 use App\Constants\DefaultSort;
-use App\Models\Task;
+use App\Models\Task\Task;
 use Illuminate\Database\Eloquent\Collection;
 
 class TaskRepository

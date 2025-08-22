@@ -2,7 +2,7 @@
 
 namespace App\Http\Requests\V1\Task;
 
-use App\Models\TaskStatus;
+use App\Models\Task\TaskStatus;
 use Illuminate\Foundation\Http\FormRequest;
 
 class CreateTaskRequest extends FormRequest
